@@ -4,3 +4,4 @@ pyproject.toml
 .venv
 main.py
 uv.lock
+faiss_index

@@ -6,3 +6,6 @@ langchain-groq
 arxiv
 wikipedia
 langgraph-cli[inmem]
+sentence-transformers
+langchain-huggingface
+faiss-cpu
